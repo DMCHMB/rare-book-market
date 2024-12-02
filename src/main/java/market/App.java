@@ -1,0 +1,7 @@
+package src.main.java.market;
+
+public class App {
+    public static void main(String[] args) {
+        System.out.println("ќткрытие магазина ожидаетс€ через 2 мес€ца");
+    }
+}
