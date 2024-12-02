@@ -2,6 +2,6 @@ package src.main.java.market;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Открытие магазина ожидается через 4 дня");
+        System.out.println("РћС‚РєСЂС‹С‚РёРµ РјР°РіР°Р·РёРЅР° РѕР¶РёРґР°РµС‚СЃСЏ С‡РµСЂРµР· 4 РґРЅСЏ");
     }
 }
